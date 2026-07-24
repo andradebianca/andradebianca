@@ -5,5 +5,4 @@ Currently working in IT Governance, where I combine software development, proces
 
 #### 🛠 Technologies and tools
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,s,python,github,vscode
-2
+![Java//cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg

@@ -5,7 +5,10 @@ _Backend Developer in training focused on Java, Spring Boot and software archite
 Currently working in IT Governance, where I combine software development, process automation, cybersecurity and data analytics to solve real business problems.
 
 #### 🛠 Technologies and tools
-![](https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,docker,react,git)
----
+<img src="https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,docker,react,git" alt="desc" width="300">
 
-<img src="https://skillicons.dev/icons?i=java,spring,pymysql,docker,react,git>
+
+#### Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&labelColor=000000&color=000000)](https://linkedin.com/in/seuuser)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8A2BE2&labelColor=000000&color=000000)](https://instagram.com/seuuser)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&labelColor=000000&color=000000)](mailto:seuemail@gmail.com)

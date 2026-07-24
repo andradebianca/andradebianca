@@ -4,4 +4,4 @@
 Currently working in IT Governance, where I combine software development, process automation, cybersecurity and data analytics to solve real business problems.
 
 #### 🛠 Technologies and tools
-![My Skills](https://skillicons.dev/icons?i=javastgres,mysql,docker,react,git)
+![](https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,docker,react,git,github)

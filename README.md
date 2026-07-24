@@ -5,4 +5,4 @@ Currently working in IT Governance, where I combine software development, proces
 
 #### 🛠 Technologies and tools
 
-![testand]](https://tse4.mm.bing.net/th/id/OIP.WtxslPLceMiq_1y5-RBJhQHaDs?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
+![testand](https://tse4.mm.bing.net/th/id/OIP.WtxslPLceMiq_1y5-RBJhQHaDs?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)

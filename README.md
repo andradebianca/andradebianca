@@ -5,3 +5,5 @@ Currently working in IT Governance, where I combine software development, proces
 
 #### 🛠 Technologies and tools
 ![](https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,docker,react,git)
+
+![](https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,docker,react,git,github)

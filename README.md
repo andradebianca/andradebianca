@@ -5,4 +5,5 @@ Currently working in IT Governance, where I combine software development, proces
 
 #### 🛠 Technologies and tools
 
-https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+![My Skills](https://skillicons.dev/icons?i=java,spring,s,python,github,vscode
+2

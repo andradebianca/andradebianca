@@ -7,18 +7,16 @@ Currently working in IT Governance, where I combine software development, proces
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/dev/java/java-original.svg
+<p align="left">
 
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg
+<img src="https://cdn.jsdelivr.net/gh/deviconscons/java/java-original.svg
 
-  <imgs://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
+/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring"/>
 
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55"/>
+.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
 
-  ://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
+.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
 
-  .net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
+<img src="https://cdn.jsdelivr.netns/devicon/icons/python/python-original.svg
 
-  .jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55"/>
 </p>

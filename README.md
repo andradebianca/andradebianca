@@ -9,6 +9,6 @@ Currently working in IT Governance, where I combine software development, proces
 
 
 #### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&labelColor=000000&color=000000)](https://linkedin.com/in/seuuser)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8A2BE2&labelColor=000000&color=000000)](https://instagram.com/seuuser)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&labelColor=000000&color=000000)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&labelColor=000000&color=000000)](https://linkedin.com/in/andradebianca)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8A2BE2&labelColor=000000&color=000000)](https://instagram.com/andradebianca)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&labelColor=000000&color=000000)](mailto:biancamattaandrade@gmail.com)

@@ -5,4 +5,5 @@ Currently working in IT Governance, where I combine software development, proces
 
 #### 🛠 Technologies and tools
 
-<img src="https://cdn.jsdelivrvicons/devicon/icons/react/react-original.svg
+<img src="https://cdn.jsdelivrvicons/devicon/icons/react/react-original.svg >
+

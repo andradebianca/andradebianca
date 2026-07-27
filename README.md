@@ -5,7 +5,7 @@ _Backend Developer in training focused on Java, Spring Boot and software archite
 Currently working in IT Governance, where I combine software development, process automation, cybersecurity and data analytics to solve real business problems.
 
 #### 🛠 Technologies and tools
-<img src="https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,docker,react,git" alt="desc" width="300">
+<img src="https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,docker,javascript,react,git" alt="desc" width="300">
 
 <!-- #### 📚 Teaching & Learning
 For now, I organize all my study materials, notes and resources in a Notion workspace — feel free to explore and learn with me:
